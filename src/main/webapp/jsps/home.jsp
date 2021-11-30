@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Posh Technologies Pvt Ltd - Home Page</title>
-<!-- link href="images/mithunlogo.jpg" rel="icon" -->
+<!-- link href="images/poshlogo.jpg" rel="icon" -->
 </head>
 </head>
 <body>
@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<!-- span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/poshlogo.jpg" alt="" width="100">
 	</span -->
 	<span style="font-weight: bold;">
 		Posh Technologies,
@@ -29,7 +29,7 @@
 <hr>
 <hr>
 <p align=center>Posh Technologies - Outsourcing, Consulting, Services, Product development.</p>
-<p align=center><small>Copyrights 2020 by <a href="http://mithuntechnologies.com/">Posh Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://poshtechnologies.com/">Posh Technologies</a> </small></p>
 
 </body>
 </html>
